@@ -1,6 +1,8 @@
 hawtio-logback
 ==============
 
+[![Join the chat at https://gitter.im/uguy/hawtio-logback](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/uguy/hawtio-logback?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 Quick-And-Dirty approach in order to provide 'LogQuery'-Support (see: https://github.com/fabric8io/fabric8/tree/master/insight/insight-log-core) for Logback.
 
